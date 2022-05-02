@@ -1,0 +1,26 @@
+#navbar div{
+    display: flex;
+    background-color: rgb(240, 233, 233);
+
+    
+}
+
+#navbar div input{
+
+    height: 30px;
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 18px;
+
+}
+
+#sidebar div{
+    background-color: rgb(240, 233, 233);
+    margin-top: -20px;
+    padding: 8px;
+
+
+}
+
+
